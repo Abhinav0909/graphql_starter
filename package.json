@@ -1,11 +1,10 @@
 {
   "name": "graphql_starter",
   "version": "1.0.0",
-  "description": "",
+  "description": "It is used to make a post and get request through graphql",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon app.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon app.js"
   },
   "keywords": [],
   "author": "",
